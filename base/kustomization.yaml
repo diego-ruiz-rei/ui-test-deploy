@@ -9,4 +9,4 @@ images:
 - name: diegoruizrei/infra-test
   newTag: b198217ba7d5cb8ff6ee8001e2c0ab97d8238871
 - name: diegoruizrei/infra-ui-test
-  newTag: 0fdf36058efd54db4422198b5ff5b76260f5cbe3
+  newTag: 9dc2b0609be5d4d491109823690bde94812dc655

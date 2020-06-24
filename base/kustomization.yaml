@@ -7,4 +7,4 @@ resources:
 - ./ingress.yaml
 images:
 - name: diegoruizrei/infra-ui-test
-  newTag: ae769d93a12f7a723048487af22703718b0fd179
+  newTag: 16cf9b21145e505fb85c34f06120088b01fe5ad6
